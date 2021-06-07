@@ -14,7 +14,7 @@
 
 #include <pcl/point_cloud.h>
 #include <pcl/point_types.h>
-#include <pcl/ros/register_point_struct.h>
+#include <pcl/register_point_struct.h>
 
 #include <Eigen/Core>
 
